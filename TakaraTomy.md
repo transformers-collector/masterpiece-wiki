@@ -114,7 +114,7 @@
 <img src="./images/TakaraTomy/mp-16.jpg" height="200"/><img src="./images/TakaraTomy/mp-16-2.jpg" height="200"/><img src="./images/TakaraTomy/mp-16-3.jpg" height="200"/><img src="./images/TakaraTomy/mp-16-4.jpg" height="200"/>
 
 ## MP-15/16E Stripes, Nightstalker, Wingthing & Enemy
-<img src="./images/TakaraTomy/mp-15_16E.jpg" height="200"/>
+<img src="./images/TakaraTomy/mp-15_16e.jpg" height="200"/>
 
 ## [MP-17 Prowl](https://tf.takaratomy.co.jp/products-lineup/tf_mp/mp-17)
 <img src="./images/TakaraTomy/mp-17.jpg" height="200"/><img src="./images/TakaraTomy/mp-17-2.jpg" height="200"/>
