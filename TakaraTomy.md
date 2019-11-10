@@ -12,7 +12,6 @@
 - Stores:
     - [Show.Z Store Takara Tomy](https://showzstore.com/c/official_0374)
     - [TFSource Masterpiece Figures](https://tfsource.com/masterpiece-figures/)
-    - [Triguetech Takara Tomy](https://www.triguetech.es/categoria-producto/transformers/takara-tomy/)
 
 # Masterpiece - Standard and Special Editions
 
