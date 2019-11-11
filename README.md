@@ -18,7 +18,7 @@
 - [BadCube](./BadCube.md)
 - [DX9](./DX9.md)
 - Fans Hobby
-- Fans Toys
+- [Fans Toys](./FansToys.md)
 - Final Victory
 - GCreations
 - Generation Toy
