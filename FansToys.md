@@ -158,4 +158,4 @@
 <img src="./images/FansToys/ft-44.jpg" height="200"/><img src="./images/FansToys/ft-44-2.jpg" height="200"/><img src="./images/FansToys/ft-44-3.jpg" height="200"/><img src="./images/FansToys/ft-44-4.jpg" height="200"/>
 
 [Back to Index](#Index)
-<div style="text-align: right"><a href="#Index" style="text-align: right">Back to Index</a></div>
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
