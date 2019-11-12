@@ -1,7 +1,7 @@
 # Index <a name="Index"/>
 - [Links](#Links)
 - [D Series](#D-Series)
-- [D Series - Atilla Combiner (Menasor)](#D-Series---Atilla-Combiner-(Menasor))
+- [D Series - Atilla Combiner (Menasor)](#D-Series---Atilla-Combiner-Menasor)
 
 # Links 
 
