@@ -4,7 +4,7 @@
 
 # Links
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 - Website: [Fans Toys Studio](http://fanstoys.com/)
 - Weibo: [Fans Toys](https://www.weibo.com/fanstoys)
@@ -16,7 +16,7 @@
 
 # FT Series
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 ## FT-02 Acoustic Wave
 
@@ -157,5 +157,4 @@
 ## FT-44 Thomas (Astrotrain)
 <img src="./images/FansToys/ft-44.jpg" height="200"/><img src="./images/FansToys/ft-44-2.jpg" height="200"/><img src="./images/FansToys/ft-44-3.jpg" height="200"/><img src="./images/FansToys/ft-44-4.jpg" height="200"/>
 
-[Back to Index](#Index)
 <p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
