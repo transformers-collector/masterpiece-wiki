@@ -1,8 +1,8 @@
-# Index
+# Index <a name="Index"/>
 - [Links](#Links)
 - [FT Series](#FT-Series)
 
-# Links 
+# Links
 
 [Back to Index](#Index)
 
@@ -94,35 +94,35 @@
 ## [FT-20G Terminus Giganticus limited edition](https://fanstoys.com/archives/482) (Omega Supreme)
 <img src="./images/FansToys/ft-20g.jpg" height="200"/>
 
-## FT-21 Berserk (Blitzwing)
+## [FT-21 Berserk](https://fanstoys.com/archives/311) (Blitzwing)
+<img src="./images/FansToys/ft-21.jpg" height="200"/><img src="./images/FansToys/ft-21-2.jpg" height="200"/><img src="./images/FansToys/ft-21-3.jpg" height="200"/>
 
+## [FT-22 Koot](https://fanstoys.com/archives/321) (Kup)
+<img src="./images/FansToys/ft-22.jpg" height="200"/><img src="./images/FansToys/ft-22-2.jpg" height="200"/>
 
-## FT-22 Koot (Kup)
+## [FT-23 Dracula](https://fanstoys.com/archives/336) (Mindwipe - Headmaster)
+<img src="./images/FansToys/ft-23.jpg" height="200"/><img src="./images/FansToys/ft-23-2.jpg" height="200"/>
 
+## [FT-24 Rouge](https://fanstoys.com/archives/347) (Arcee)
+<img src="./images/FansToys/ft-24.jpg" height="200"/><img src="./images/FansToys/ft-24-2.jpg" height="200"/>
 
-## FT-23 Dracula (Mindwipe - Headmaster)
+## [FT-25 Outrider](https://fanstoys.com/archives/364) (Trailbreaker)
+<img src="./images/FansToys/ft-25.jpg" height="200"/><img src="./images/FansToys/ft-25-2.jpg" height="200"/>
 
+## [FT-26 Chomp](https://fanstoys.com/archives/370) (Skullcruncher)
+<img src="./images/FansToys/ft-26.jpg" height="200"/><img src="./images/FansToys/ft-26-2.jpg" height="200"/>
 
-## FT-24 Rouge (Arcee)
+## [FT-27 Spindrift](https://fanstoys.com/archives/381) (Seaspray)
+<img src="./images/FansToys/ft-27.jpg" height="200"/><img src="./images/FansToys/ft-27-2.jpg" height="200"/>
 
+## [FT-28 Hydra](https://fanstoys.com/archives/388) (Sixshot)
+<img src="./images/FansToys/ft-28.jpg" height="200"/><img src="./images/FansToys/ft-28-2.jpg" height="200"/><img src="./images/FansToys/ft-28-3.jpg" height="200"/><img src="./images/FansToys/ft-28-4.jpg" height="200"/><img src="./images/FansToys/ft-28-5.jpg" height="200"/><img src="./images/FansToys/ft-28-6.jpg" height="200"/>
 
-## FT-25 Outrider (Trailbreaker)
+## [FT-29 Quietus](https://fanstoys.com/archives/402) (Cyclonus)
+<img src="./images/FansToys/ft-29.jpg" height="200"/><img src="./images/FansToys/ft-29-2.jpg" height="200"/>
 
-
-## FT-26 Chomp (Skullcruncher)
-
-
-## FT-27 Spindri## FT (Seaspray)
-
-
-## FT-28 Hydra (Sixshot)
-
-
-## FT-29 Quietus (Cyclonus)
-
-
-## FT-30A Maverick
-
+## [FT-30A Maverick](https://fanstoys.com/archives/419)
+<img src="./images/FansToys/ft-30a.jpg" height="200"/><img src="./images/FansToys/ft-30a-2.jpg" height="200"/>
 
 ## [FT-30B Iceman](https://fanstoys.com/archives/485)
 <img src="./images/FansToys/ft-30b.jpg" height="200"/><img src="./images/FansToys/ft-30b-2.jpg" height="200"/>
@@ -142,7 +142,8 @@
 ## [FT-39 Jabber](https://fanstoys.com/archives/440)
 <img src="./images/FansToys/ft-39.jpg" height="200"/><img src="./images/FansToys/ft-39-2.jpg" height="200"/>
 
-## FT-40
+## FT-40 Fortress Maximus
+<img src="./images/FansToys/ft-40.jpeg" height="200"/><img src="./images/FansToys/ft-40-2.jpeg" height="200"/><img src="./images/FansToys/ft-40-3.jpeg" height="200"/>
 
 ## [FT-41 Sheridan](https://fanstoys.com/archives/526)
 <img src="./images/FansToys/ft-41.jpg" height="200"/><img src="./images/FansToys/ft-41-2.jpg" height="200"/>
@@ -154,6 +155,7 @@
 <img src="./images/FansToys/ft-43.jpg" height="200"/><img src="./images/FansToys/ft-43-2.jpg" height="200"/>
 
 ## FT-44 Thomas (Astrotrain)
-
+<img src="./images/FansToys/ft-44.jpg" height="200"/><img src="./images/FansToys/ft-44-2.jpg" height="200"/><img src="./images/FansToys/ft-44-3.jpg" height="200"/><img src="./images/FansToys/ft-44-4.jpg" height="200"/>
 
 [Back to Index](#Index)
+<div style="text-align: right"><a href="#Index" style="text-align: right">Back to Index</a></div>
