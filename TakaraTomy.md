@@ -5,17 +5,15 @@
 
 # Links 
 
-<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
-
 - Official website: [Takara Tomy Masterpiece](https://tf.takaratomy.co.jp/products/tf_mp)
 - Wiki: [The Transformers: Masterpiece](https://tfwiki.net/wiki/The_Transformers:_Masterpiece)
 - Stores:
     - [Show.Z Store Takara Tomy](https://showzstore.com/c/official_0374)
     - [TFSource Masterpiece Figures](https://tfsource.com/masterpiece-figures/)
 
-# Masterpiece - Standard and Special Editions
-
 <p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
+
+# Masterpiece - Standard and Special Editions
 
 ## [MP-01 Convoy](https://tf.takaratomy.co.jp/products-lineup/tf_mp/mp-01) (Optimus Prime)
 <img src="./images/TakaraTomy/mp-01.jpg" height="200"/><img src="./images/TakaraTomy/mp-01-2.jpg" height="200"/>
@@ -242,9 +240,9 @@
 ## [MP-48 Rio Convoy (Beast Wars)](https://tf.takaratomy.co.jp/products-lineup/tf_mp/mp-48)
 <img src="./images/TakaraTomy/mp-48.jpg" height="200"/><img src="./images/TakaraTomy/mp-48-2.jpg" height="200"/>
 
-# Masterpiece - Movie Series
-
 <p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
+
+# Masterpiece - Movie Series
 
 ## MPM-1 Starscream
 <img src="./images/TakaraTomy/mpm-1.jpg" height="200"/>
@@ -272,6 +270,5 @@
 
 ## [MPM-9 Jazz](https://tf.takaratomy.co.jp/products-lineup/tf_mp/mpm-9)
 <img src="./images/TakaraTomy/mpm-9.jpg" height="200"/><img src="./images/TakaraTomy/mpm-9-2.jpg" height="200"/>
-
 
 <p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>

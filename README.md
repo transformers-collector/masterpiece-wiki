@@ -7,13 +7,11 @@
 
 ## Official
 
-<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
-
 - [Takara Tomy](./TakaraTomy.md)
 
-## 3rd Party
-
 <p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
+
+## 3rd Party
 
 - [BadCube](./BadCube.md)
 - [DX9](./DX9.md)
@@ -37,9 +35,9 @@
 - X-Transbots
 - Zeta Toys
 
-## 4th Party
-
 <p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
+
+## 4th Party
 
 - Takara Tomy KO
 - Art of Duplicates

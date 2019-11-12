@@ -5,8 +5,6 @@
 
 # Links 
 
-<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
-
 - Facebook: [DX9toys](https://www.facebook.com/dx9toys)
 - Stores:
     - [Show.Z Store DX9](https://showzstore.com/c/dx9_0382)
@@ -14,9 +12,9 @@
     - [The Chosen Prime DX9 Toys](https://www.thechosenprime.com/DX9-Toys_bymfg_15-4-2.html)
     - [TF-Direct DX9 Toys](https://www.tf-direct.com/c/dx9-toys_0366)
 
-# D Series
-
 <p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
+
+# D Series
 
 ## D01 Salmoore
 <img src="./images/DX9/d01.png" height="200"/>
@@ -66,9 +64,9 @@
 ## D12 Gabriel (Omega Supreme)
 <img src="./images/DX9/d12.png" height="200"/>
 
-# D Series - Atilla Combiner (Menasor)
-
 <p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
+
+# D Series - Atilla Combiner (Menasor)
 
 ## D13 Montana (Breakdown - Stunticont)
 <img src="./images/DX9/d13.png" height="200"/>

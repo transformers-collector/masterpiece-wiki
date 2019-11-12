@@ -5,16 +5,14 @@
 
 # Links 
 
-<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
-
-- Facebook: [BadCube](https://www.facebook.com/BadCube-534574883310170/)
+- Facebook: [BadCube](https://www.facebook.com/BadCube-534574883310170/) 
 - Stores:
     - [Show.Z Store BadCube](https://showzstore.com/c/badcube_0392)
     - [TFSource BadCube](https://tfsource.com/badcube/)
 
-# Old Time Series
-
 <p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
+
+# Old Time Series
 
 ## OTS-01 Huff
 <img src="./images/BadCube/ots-01.png" height="200"/>
@@ -64,9 +62,9 @@
 ## OTS-15 Security Director Recon (Red Alert)
 <img src="./images/BadCube/ots-15.jpg" height="200"/>
 
-# Old Time Series Special
-
 <p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
+
+# Old Time Series Special
 
 ## OTS-Special 01 Sentinel Blaze
 <img src="./images/BadCube/ots-special01.png" height="200"/>

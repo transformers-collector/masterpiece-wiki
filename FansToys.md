@@ -4,8 +4,6 @@
 
 # Links
 
-<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
-
 - Website: [Fans Toys Studio](http://fanstoys.com/)
 - Weibo: [Fans Toys](https://www.weibo.com/fanstoys)
 - Forums: [TFW2005 Release Schedule](https://www.tfw2005.com/boards/threads/fanstoys-release-schedule-past-present.1131336/?fbclid=IwAR3HUat2MeOrt3Hm6-iEsIDrnMCRXCcaYtcsHxZq68IH91aLcqdUKozewTI)
@@ -14,9 +12,9 @@
     - [Show.Z Store Fans Toys](https://showzstore.com/c/fanstoys_0381)
     - [FTSource Fans Toys](https://tfsource.com/fans-toys/)
 
-# FT Series
-
 <p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
+
+# FT Series
 
 ## FT-02 Acoustic Wave
 
