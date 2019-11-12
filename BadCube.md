@@ -1,11 +1,11 @@
-# Index
+# Index <a name="Index"/>
 - [Links](#Links)
 - [Old Time Series](#Old-Time-Series)
 - [Old Time Series Special](#Old-Time-Series-Special)
 
 # Links 
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 - Facebook: [BadCube](https://www.facebook.com/BadCube-534574883310170/)
 - Stores:
@@ -14,7 +14,7 @@
 
 # Old Time Series
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 ## OTS-01 Huff
 <img src="./images/BadCube/ots-01.png" height="200"/>
@@ -66,10 +66,10 @@
 
 # Old Time Series Special
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 ## OTS-Special 01 Sentinel Blaze
 <img src="./images/BadCube/ots-special01.png" height="200"/>
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 

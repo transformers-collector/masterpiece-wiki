@@ -1,19 +1,19 @@
 # The Transformers Masterpiece - Collectors Wiki
 
-## Index
+## Index <a name="Index"/>
 - [Official](#Official)
 - [3rd Party](#3rd-Party)
 - [4th Party](#4th-Party)
 
 ## Official
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 - [Takara Tomy](./TakaraTomy.md)
 
 ## 3rd Party
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 - [BadCube](./BadCube.md)
 - [DX9](./DX9.md)
@@ -39,7 +39,7 @@
 
 ## 4th Party
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 - Takara Tomy KO
 - Art of Duplicates
@@ -49,4 +49,4 @@
 - Weijiang / Legeneray Toys / Black Manba
 - Yes Model / YM / BB7 / BBQ
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>

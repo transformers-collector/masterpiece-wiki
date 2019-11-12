@@ -1,11 +1,11 @@
-# Index
+# Index <a name="Index"/>
 - [Links](#Links)
 - [Masterpiece - Standard and Special Editions](#Masterpiece---Standard-and-Special-Editions)
 - [Masterpiece - Movie Series](#Masterpiece---Movie-Series)
 
 # Links 
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 - Official website: [Takara Tomy Masterpiece](https://tf.takaratomy.co.jp/products/tf_mp)
 - Wiki: [The Transformers: Masterpiece](https://tfwiki.net/wiki/The_Transformers:_Masterpiece)
@@ -15,7 +15,7 @@
 
 # Masterpiece - Standard and Special Editions
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 ## [MP-01 Convoy](https://tf.takaratomy.co.jp/products-lineup/tf_mp/mp-01) (Optimus Prime)
 <img src="./images/TakaraTomy/mp-01.jpg" height="200"/><img src="./images/TakaraTomy/mp-01-2.jpg" height="200"/>
@@ -244,7 +244,7 @@
 
 # Masterpiece - Movie Series
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 ## MPM-1 Starscream
 <img src="./images/TakaraTomy/mpm-1.jpg" height="200"/>
@@ -274,4 +274,4 @@
 <img src="./images/TakaraTomy/mpm-9.jpg" height="200"/><img src="./images/TakaraTomy/mpm-9-2.jpg" height="200"/>
 
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>

@@ -1,11 +1,11 @@
-# Index
+# Index <a name="Index"/>
 - [Links](#Links)
 - [D Series](#D-Series)
 - [D Series - Atilla Combiner (Menasor)](#D-Series---Atilla-Combiner-(Menasor))
 
 # Links 
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 - Facebook: [DX9toys](https://www.facebook.com/dx9toys)
 - Stores:
@@ -16,7 +16,7 @@
 
 # D Series
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 ## D01 Salmoore
 <img src="./images/DX9/d01.png" height="200"/>
@@ -68,7 +68,7 @@
 
 # D Series - Atilla Combiner (Menasor)
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
 
 ## D13 Montana (Breakdown - Stunticont)
 <img src="./images/DX9/d13.png" height="200"/>
@@ -85,4 +85,4 @@
 ## D17 Giuliano (Stunticont)
 <img src="./images/DX9/d17.png" height="200"/>
 
-[Back to Index](#Index)
+<p align="right"><a href="#Index" style="text-align: right">Back to Index</a></p>
