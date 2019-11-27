@@ -17,77 +17,115 @@
 # FT Series
 
 ## FT-02 Acoustic Wave
+<img src="./images/FansToys/ft-02.jpg" height="200"/><img src="./images/FansToys/ft-02-2.jpg" height="200"/>
 
 ## FT-03 Quake Wave (Shockwave)
-## FT-03C Quake Wave (Shockwave)
-## FT-03T Quake Wave (Shockwave)
+<img src="./images/FansToys/ft-03.jpg" height="200"/><img src="./images/FansToys/ft-03-2.jpg" height="200"/>
 
+## FT-03C Quake Wave (Shockwave)
+<img src="./images/FansToys/ft-03c.jpg" height="200"/><img src="./images/FansToys/ft-03c-2.jpg" height="200"/>
+
+## FT-03T Quake Wave (Shockwave)
+<img src="./images/FansToys/ft-03t.jpg" height="200"/><img src="./images/FansToys/ft-03t-2.jpg" height="200"/>
 
 ## FT-04 Scoria (Slag)
-## FT-04D Scoria (Slag)
-## FT-04G Scoria (Slag)
-## FT-04T Scoria (Slag)
-## FT-04X Scoria (Slag)
+<img src="./images/FansToys/ft-04.jpg" height="200"/><img src="./images/FansToys/ft-04-2.jpg" height="200"/>
 
+## FT-04D Scoria (Slag)
+<img src="./images/FansToys/ft-04d.jpg" height="200"/><img src="./images/FansToys/ft-04d-2.jpg" height="200"/>
+
+## FT-04G Scoria (Slag)
+<img src="./images/FansToys/ft-04g.jpg" height="200"/><img src="./images/FansToys/ft-04g-2.jpg" height="200"/>
+
+## FT-04T Scoria (Slag)
+<img src="./images/FansToys/ft-04t.jpg" height="200"/><img src="./images/FansToys/ft-04t-2.jpg" height="200"/>
+
+## FT-04X Scoria (Slag)
+<img src="./images/FansToys/ft-04x.jpg" height="200"/><img src="./images/FansToys/ft-04x-2.jpg" height="200"/>
 
 ## FT-05 Soar (Swoop)
-## FT-05T Soar (Swoop)
-## FT-05X Soar (Swoop)
-## FT-05XT Soar (Swoop)
+<img src="./images/FansToys/ft-05.jpg" height="200"/><img src="./images/FansToys/ft-05-2.jpg" height="200"/>
 
+## FT-05T Soar (Swoop)
+<img src="./images/FansToys/ft-05t.jpg" height="200"/><img src="./images/FansToys/ft-05t-2.jpg" height="200"/>
+
+## FT-05X Soar (Swoop)
+<img src="./images/FansToys/ft-05x.jpg" height="200"/><img src="./images/FansToys/ft-05x-2.jpg" height="200"/>
+
+## FT-05XT Soar (Swoop)
+<img src="./images/FansToys/ft-05xt.jpg" height="200"/><img src="./images/FansToys/ft-05xt-2.jpg" height="200"/>
 
 ## FT-06 Sever (Snarl)
-## FT-06D Sever (Snarl)
-## FT-06G Sever (Snarl)
-## FT-06X Sever (Snarl)
+<img src="./images/FansToys/ft-06.jpg" height="200"/><img src="./images/FansToys/ft-06-2.jpg" height="200"/>
 
+## FT-06D Sever (Snarl)
+<img src="./images/FansToys/ft-06d.jpg" height="200"/><img src="./images/FansToys/ft-06d-2.jpg" height="200"/>
+
+## FT-06G Sever (Snarl)
+<img src="./images/FansToys/ft-06g.jpg" height="200"/><img src="./images/FansToys/ft-06g-2.jpg" height="200"/>
+
+## FT-06X Sever (Snarl)
+<img src="./images/FansToys/ft-06x.jpg" height="200"/><img src="./images/FansToys/ft-06x-2.jpg" height="200"/>
 
 ## FT-07 Stomp (Sludge)
+<img src="./images/FansToys/ft-07.jpg" height="200"/><img src="./images/FansToys/ft-07-2.jpg" height="200"/>
+
 ## FT-07X Stomp (Sludge)
+<img src="./images/FansToys/ft-07x.jpg" height="200"/><img src="./images/FansToys/ft-07x-2.jpg" height="200"/>
 
+## [FT-08 Grinder](https://fanstoys.com/archives/149) (Grimlock)
+<img src="./images/FansToys/ft-08.jpg" height="200"/><img src="./images/FansToys/ft-08-2.jpg" height="200"/>
 
-## FT-08 Grinder (Grimlock)
-## FT-08D Grinder (Grimlock)
-## FT-08G Grinder (Grimlock)
-## FT-08X Grinder (Grimlock)
+## [FT-08D Grinder](https://fanstoys.com/archives/156) (Grimlock)
+<img src="./images/FansToys/ft-08d.jpg" height="200"/><img src="./images/FansToys/ft-08d-2.jpg" height="200"/>
 
+## [FT-08G Grinder](https://fanstoys.com/archives/156) (Grimlock)
+<img src="./images/FansToys/ft-08g.jpg" height="200"/><img src="./images/FansToys/ft-08g-2.jpg" height="200"/>
 
-## FT-09 Tesla (Perceptor)
+## [FT-08X Grinder](https://fanstoys.com/archives/156) (Grimlock)
+<img src="./images/FansToys/ft-08x.jpg" height="200"/><img src="./images/FansToys/ft-08x-2.jpg" height="200"/>
 
+## [FT-09 Tesla](https://fanstoys.com/archives/182) (Perceptor)
+<img src="./images/FansToys/ft-09.jpg" height="200"/>
 
-## FT-10 Phoenix (Skyfire)
-## FT-10X Phoenix (Skyfire)
+## [FT-10 Phoenix](https://fanstoys.com/archives/188) (Skyfire)
+<img src="./images/FansToys/ft-10.jpg" height="200"/><img src="./images/FansToys/ft-10-2.jpg" height="200"/>
 
+## [FT-10X Phoenix](https://fanstoys.com/archives/208) (Skyfire)
+<img src="./images/FansToys/ft-10x.jpg" height="200"/><img src="./images/FansToys/ft-10x-2.jpg" height="200"/>
 
-## FT-11 Spotter (Reflector)
+## [FT-11 Spotter](https://fanstoys.com/archives/210) (Reflector)
+<img src="./images/FansToys/ft-11.jpg" height="200"/><img src="./images/FansToys/ft-11-2.jpg" height="200"/>
 
+## [FT-12 Grenadier](https://fanstoys.com/archives/221) (Bombshell)
+<img src="./images/FansToys/ft-12.jpg" height="200"/><img src="./images/FansToys/ft-12-2.jpg" height="200"/>
 
-## FT-12 Grenadier (Bombshell)
 ## FT-12T Grenadier (Bombshell) 
+<img src="./images/FansToys/ft-12t.jpg" height="200"/>
 
+## [FT-13 Mercenary](https://fanstoys.com/archives/232) (Shrapnel)
+<img src="./images/FansToys/ft-13.jpg" height="200"/><img src="./images/FansToys/ft-13-2.jpg" height="200"/>
 
-## FT-13 Mercenary (Shrapnel)
+## [FT-14 Forager](https://fanstoys.com/archives/240) (Kickback)
+<img src="./images/FansToys/ft-14.jpg" height="200"/><img src="./images/FansToys/ft-14-2.jpg" height="200"/>
 
+## [FT-15 Willy](https://fanstoys.com/archives/248) (Hound)
+<img src="./images/FansToys/ft-15.jpg" height="200"/><img src="./images/FansToys/ft-15-2.jpg" height="200"/>
 
-## FT-14 Forager (Kickback)
+## [FT-16 Sovereign](https://fanstoys.com/archives/259) (Galvatron)
+<img src="./images/FansToys/ft-16.jpg" height="200"/><img src="./images/FansToys/ft-16-2.jpg" height="200"/>
 
+## [FT-17 Hoodlum](https://fanstoys.com/archives/269) (Hot Rod)
+<img src="./images/FansToys/ft-17.jpg" height="200"/><img src="./images/FansToys/ft-17-2.jpg" height="200"/><img src="./images/FansToys/ft-17-3.jpg" height="200"/>
 
-## FT-15 Willy (Hound)
+## [FT-18 Lupus](https://fanstoys.com/archives/282) (Weirdwolf)
+<img src="./images/FansToys/ft-18.jpg" height="200"/><img src="./images/FansToys/ft-18-2.jpg" height="200"/>
 
+## [FT-19 Apache](https://fanstoys.com/archives/293) (Springer)
+<img src="./images/FansToys/ft-19.jpg" height="200"/><img src="./images/FansToys/ft-19-2.jpg" height="200"/><img src="./images/FansToys/ft-19-3.jpg" height="200"/>
 
-## FT-16 Sovereign (Galvatron)
-
-
-## FT-17 Hoodlum (Hot Rod)
-
-
-## FT-18 Lupus (Weirdwolf)
-
-
-## FT-19 Apache (Springer)
-
-
-## FT-20 Terminus Giganticus (Omega Supreme)
+## [FT-20 Terminus Giganticus](https://fanstoys.com/archives/302) (Omega Supreme)
+<img src="./images/FansToys/ft-20.jpg" height="200"/><img src="./images/FansToys/ft-20-2.jpg" height="200"/>
 
 ## [FT-20G Terminus Giganticus limited edition](https://fanstoys.com/archives/482) (Omega Supreme)
 <img src="./images/FansToys/ft-20g.jpg" height="200"/>
