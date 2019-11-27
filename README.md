@@ -19,7 +19,7 @@
 - [DX9](./DX9.md)
 - Fans Hobby
 - [Fans Toys](./FansToys.md)
-- Final Victory
+- [Final Victory](./FinalVictory.md)
 - GCreations
 - Generation Toy
 - GigaPower
